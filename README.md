@@ -26,9 +26,14 @@ Após isso você precisa abrir o Visual Studio Code e clicar em 'Open preview' e
 
 ## Redes Sociais
 
-[Linkedin](https://www.linkedin.com/in/thais-cristina-40b312179/)
+## LinkedIn
+Conecte-se comigo no LinkedIn para networking profissional e oportunidades de colaboração.
+[Thais Cristina - LinkedIn](https://www.linkedin.com/in/thais-cristina-40b312179/)
 
-[Gmail](Thaiscris556@gmail.com).
+## Email
+Para entrar em contato diretamente, você pode enviar um e-mail para:
+[Thaiscris556@gmail.com](mailto:Thaiscris556@gmail.com)
+
 
 
 ---

@@ -8,9 +8,7 @@
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- ✔️ JavaScript
-
-
+- ✔️ Java
 
 # Pré-requisitos
 
